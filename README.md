@@ -4,7 +4,7 @@
 
 ### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoxB%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jg_doxb)](벨로그링크)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jg_doxb)](https://velog.io/@jg_doxb/posts)
 ---
 
 
