@@ -15,7 +15,7 @@
 ✅ `2023.06.15 ~ 2024.01.31` 열화상 카메라 융합 자율주행 데이터 구축 (실무)
 [🪧 바로가기](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=&topMenu=&srchOptnCnd=OPTNCND001&searchKeyword=%EC%97%B4%ED%99%94%EC%83%81+%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&aihubDataSe=data&dataSetSn=71691)<br>
 ✅ `2024.08.12 ~ 2024.08.30` 기본 'RAG 아키텍처' 소개 (팀)
-[🪧 바로가기](https://github.com/DoxB/RAGllama3prototype)<br>
+[🪧 바로가기](https://github.com/DoxB/RAG_llama3_prototype)<br>
 ✅ `2024.10.24 ~ 2024.12.10` 아파트 종합대출 플랫폼 '우주론' (팀)
 [🪧 바로가기](https://github.com/Universe-Loan)<br>
 ✅ `2025.04.25 ~ 2025.06.16` 파편화된 유튜브 지식 구조화 플랫폼 '지구다' (팀)
