@@ -44,5 +44,3 @@
 | 🚩 Algorithm Ranking                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------|
 | [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=doxb)](https://solved.ac/profile/doxb) |
-
-
