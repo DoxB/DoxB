@@ -20,8 +20,6 @@
 [🪧 바로가기](https://github.com/Universe-Loan)<br>
 ✅ `2025.04.25 ~ 2025.06.16` 파편화된 유튜브 지식 구조화 플랫폼 '지구다' (팀)
 [🪧 바로가기](https://github.com/isEarth)<br>
-🛠️ `2025.12.01 ~ (진행중)` 모의투자 플랫폼 (개인)
-[🪧 바로가기](https://github.com/DoxB/Crypto-Trading)
 
 
 
@@ -43,8 +41,8 @@
 
 ---
 
-| 🚩 Algorithm Ranking                                                                                            | ⭐ GitHub stats                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=doxb)](https://solved.ac/profile/doxb) | ![DoxB's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoxB&amp;amp;show_icons=true&amp;amp;theme=cobalt) |
+| 🚩 Algorithm Ranking                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------|
+| [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=doxb)](https://solved.ac/profile/doxb) |
 
 
