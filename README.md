@@ -9,7 +9,7 @@
 `2024.07 ~ 2024.12` 📖 우리에프아이에스 아카데미 3기 수료 - AI 엔지니어링 과정<br>
 `2025.02 ~ 2025.06` 📖 고려대학교 지능정보 SW 아카데미 6기 수료- AI 교육과정<br>
 `2026.06 ~ 2026.07` 🏢 AWS DCO Trainee - Data Center Techincian <br>
-`2023.07 ~ now` 🏢 AWS DCO - Data Center Techincian <br>
+`2026.07 ~ now` 🏢 AWS DCO - Data Center Techincian <br>
 
 
 ## 📊 Project
